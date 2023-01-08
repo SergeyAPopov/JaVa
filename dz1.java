@@ -1,5 +1,3 @@
-package com.example;
-
 import java.util.Scanner;
 
 /**
@@ -20,7 +18,6 @@ Task3
 public class dz1 
 {
     /**
-     * @param args
      */
     public static void main( String[] args )
     {
